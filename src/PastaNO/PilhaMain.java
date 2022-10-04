@@ -21,6 +21,8 @@ public class PilhaMain {
 
         minhaPilha.push(new No(59));
 
+        System.out.println(minhaPilha.top());
+
         System.out.println(minhaPilha);
     }
 }
